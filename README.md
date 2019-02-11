@@ -29,6 +29,6 @@ At 42E we are not here to judge the viability of your project but we are here to
 There is a lot about startup and entrepreneurship mindset on the internet. We are not here to shape you mindset about entrepeneurship but we will share resources to ensure you get a lot of inspiration from best entrepreneurs.
 
 ### Apply?
-If you have any questions or if you are motivated by this program, do not hesitate to contact us @(put an email here ?) and we will get back to you as soon as possible. We would like to start the first batch in february as an example and we will do the interviews during january.  
+If you have any questions or if you are motivated by this program, do not hesitate to contact us @(put an email here ?) and we will get back to you as soon as possible. We would like to start the first batch in march as an example and we will do the interviews during february.  
 > You may not need a clear idea about your project, as long as you are motivated about the adventure. 
 > We may even organize meetups before the program where we can brainstorm on ideas and find your cofounder(s).
