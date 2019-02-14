@@ -15,10 +15,10 @@ We will meet a least once a week to talk about your objectives and strategy.
 There will be also office-hours (at least once per month) with experienced staff of 42E.
 At the end of the batch we would like to organise a "demo-day" where each startup will pitch their project to our partners.
 We will have weekly standups to talk about the problems we face to face it together.
-There will be mandatory talks presented by __you__ as a startup internship founder on subject of your choice for the startup internship team batch.
+There will be mandatory talks presented by __you__ as a startup founder on subject of your choice for the startup school batch.
 
 ### Selection
-At 42E we are not here to judge the viability of your project but we are here to give you the support you need, could that be in tech / marketing / growth-hacking or anything you may need. We will just ensure that people doing the start-up internship are really motivated and will work full-time on their project.
+At 42E we are not here to judge the viability of your project but we are here to give you the support you need, could that be in tech / marketing / growth-hacking or anything you may need. We will just ensure that people doing the start-up school are really motivated and will work full-time on their project.
 
 ### Why 42 Entrepeneurs ?
 42E is the entrepreneur's association of 42. We are passionate about entrepreneurship and we have differents talents within the association who can help you launching you project through [perks](https://42entrepreneurs.com/perks), [network](https://42entrepreneurs.com/startups) and much more! 
