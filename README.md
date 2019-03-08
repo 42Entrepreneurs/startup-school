@@ -7,7 +7,7 @@ Start-up school is a program designed by 42E to help you launching your start-up
 People who want to write their own adventure. We are looking for motivated students who want to take their independence and start a startup. If you are still not sure about starting a startup you may want to read [**A student's guide to startup**](http://www.paulgraham.com/mit.html) or [**Why to not not start a startup**](http://www.paulgraham.com/notnot.html) from P. Graham.
 
 ### How long ?
-The program is designed for a 6 month duration, but 42E will accompany you as long as you may need it!
+The program is designed for a 3 month duration, but 42E will accompany you as long as you may need it!
 
 ### Content
 The content will be designed with the first sessions of startup school. We will have regular mandatory & optionnal workshop on tech / legal / business / design.
@@ -22,8 +22,14 @@ There will be mandatory talks presented by __you__ as a startup founder on subje
 ##### Weekly Standup Meeting
 
 Every Monday at 9 AM, @Quentin will organize a weekly standup meeting. The goal is to prepare coming week's work and share difficulties and good news.
+- Present yourself in one sentence.
+- Present at least 1 slide to demo your last week progress.
+- Present your todo list of next week.
 
-##### Teck Talks
+##### Teck Talks (Workshops - 30min explications + 30min-1h questions)
+
+1 conference / week.
+
 - Mindset Dev | Pragmatisme: (@Thomas + @Quentin)
     - Choisir sa stack
     - Veille techno
@@ -47,7 +53,7 @@ Every Monday at 9 AM, @Quentin will organize a weekly standup meeting. The goal 
     - Comparatifs des services de cloud (GCP, AWS, DO)
 - Techno back (quel languages pour quels usages) (@Quentin)
     - le ruby c’est cool mais c’est pas perf
-    - le go c’est cool mais c’est pas mal designé
+    - le go c’est cool mais c’est mal designé
     - le js c’est cool mais c’est brainfuck
     - le python c’est cool mais c’est mal designé
 - Infra (@Thomas)
@@ -59,6 +65,23 @@ Every Monday at 9 AM, @Quentin will organize a weekly standup meeting. The goal 
     - Tu as vraiment besoin d’une app mobile?
     - Native, hybride ou webapp?
 
+##### Talks
+
+- Proof of concept (@Jean)
+- Product Market Fit
+- Communication exterieur (@Maxime + @Thomas + @Quentin)
+    - Apprendre a parler de son business
+        - The mom test (book)
+    - Landing etc
+    - B2B / B2C
+- Comment monter une team
+- AB Testing / Growth Hacking
+- Status Jurédiques - [Gallion project](https://thegalionproject.com/term-sheet)
+demander à Manfred de faire un talk (https://medium.com/passion-madness/startup-audits-e51fc86ae354)
+
+##### Office Hours
+
+- Not Scheduled but mandatory, you can book an office hour with anyone from the 42E association
 
 ### Selection
 At 42E we are not here to judge the viability of your project but we are here to give you the support you need, could that be in tech / marketing / growth-hacking or anything you may need. We will just ensure that people doing the start-up school are really motivated and will work full-time on their project.
@@ -76,7 +99,15 @@ If you have any questions or if you are motivated by this program, do not hesita
 > - You do not need to have a clear idea about your project, as long as you are motivated about the adventure.
 > - We may even organize meetups before the program where we can brainstorm on ideas or/and find your cofounder(s).
 
+### Timeline
+
+- 8 to 24 march: register on google form
+- 24 to 29 march:  interview with Maxime, Quentin & Thomas
+- monday 8 april: start of the program
+- friday 28th of june : end of the program
+
 ### Actors:
 - @Thomas - Thomas Payet (thomas@meilisearch.com)
 - @Quentin - Quentin de Quelen (quentin@meilisearch.com)
 - @Maxime - Maxime Imhoff (maxime@42entrepreneurs.fr)
+- @Jean - Jean Philippe
