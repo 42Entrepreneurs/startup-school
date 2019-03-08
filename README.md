@@ -1,7 +1,7 @@
 # Start-up School by 42 Entrepreneurs
 
 ### What is it?
-Start-up school is a program designed by 42E to help you launching your start-up project. We will create a little batch of very motivated people, we eill meet weekly and organise talks and support amongs us for 6 months! We will have talks about tech (pragmatism in code, git understanding, etc), business (POC, bootstraping, market-fit, etc) and more.
+Start-up school is a program designed by 42E to help you launching your start-up project. We will create a little batch of very motivated people, we eill meet weekly and organise talks and support amongs us for 3 months! We will have talks about tech (pragmatism in code, git understanding, etc), business (POC, bootstraping, market-fit, etc) and more.
 
 ### Who is this for ?
 People who want to write their own adventure. We are looking for motivated students who want to take their independence and start a startup. If you are still not sure about starting a startup you may want to read [**A student's guide to startup**](http://www.paulgraham.com/mit.html) or [**Why to not not start a startup**](http://www.paulgraham.com/notnot.html) from P. Graham.
