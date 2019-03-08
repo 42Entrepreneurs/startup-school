@@ -79,9 +79,13 @@ Every Monday at 9 AM, @Quentin will organize a weekly standup meeting. The goal 
 - Status Jurédiques - [Gallion project](https://thegalionproject.com/term-sheet)
 demander à Manfred de faire un talk (https://medium.com/passion-madness/startup-audits-e51fc86ae354)
 
+
+##### Mentors
+Each participant / project will be assigned a mentor for the duration of the program.
+
 ##### Office Hours
 
-- Not Scheduled but mandatory, you can book an office hour with anyone from the 42E association
+- Not Scheduled but mandatory 1 OH/week with a mentor or someone from 42 entrepreneurs.
 
 ### Selection
 At 42E we are not here to judge the viability of your project but we are here to give you the support you need, could that be in tech / marketing / growth-hacking or anything you may need. We will just ensure that people doing the start-up school are really motivated and will work full-time on their project.
@@ -104,7 +108,7 @@ If you have any questions or if you are motivated by this program, do not hesita
 - 8 to 24 march: register on google form
 - 24 to 29 march:  interview with Maxime, Quentin & Thomas
 - monday 8 april: start of the program
-- friday 28th of june : end of the program
+- TBA (around the 28th of june): end of the program & Demo Day @StationF
 
 ### Actors:
 - @Thomas - Thomas Payet (thomas@meilisearch.com)
