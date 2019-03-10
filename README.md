@@ -76,7 +76,7 @@ Every Monday at 9 AM, @Quentin will organize a weekly standup meeting. The goal 
     - B2B / B2C
 - Comment monter une team
 - AB Testing / Growth Hacking
-- Status Jurédiques - [Gallion project](https://thegalionproject.com/term-sheet)
+- Statuts juridiques - [Gallion project](https://thegalionproject.com/term-sheet)
 demander à Manfred de faire un talk (https://medium.com/passion-madness/startup-audits-e51fc86ae354)
 
 
